@@ -363,7 +363,7 @@ img {
     display: flex;
     flex-direction: column-reverse;
     /* height: 100%; */
-    margin-top: var(--header-height);
+/*     margin-top: var(--header-height); */
     row-gap: 3rem;
     text-align: center;
 }
